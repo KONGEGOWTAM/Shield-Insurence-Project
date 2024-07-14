@@ -12,7 +12,7 @@ As a junior data analyst at Atliq Technologies, my goal is to conduct a comprehe
 
 Delved deep into Shield Insurance's KPIs and trends, with a focus on sales mode and age group analysis.
 
-KPIs
+
 ![Screenshot 2024-07-14 132508](https://github.com/user-attachments/assets/a9d744b5-360a-4216-8286-4fc8d9a2abac)
 
 📊 Insights:
